@@ -21,13 +21,11 @@ This landing page is fully responsive and adapts to different screen sizes. Belo
 
 ### 💻 Desktop Preview
 
-![Desktop GIF Preview](./design/desktop-preview.gif)
+![Desktop GIF Preview](../design/desktop-preview.gif)
 
 ### 📱 Mobile Preview
 
-![Mobile GIF Preview](./design/mobile-preview.gif)
-
-> 📂 The GIFs are located in the `design/` folder at the root of the project.
+![Mobile GIF Preview](../design/mobile-preview.gif)
 
 ---
 
