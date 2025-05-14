@@ -21,11 +21,11 @@ This landing page is fully responsive and adapts to different screen sizes. Belo
 
 ### 💻 Desktop Preview
 
-![Desktop GIF Preview](../design/desktop-preview.gif)
+![Desktop GIF Preview](./design/Desktop.gif)
 
 ### 📱 Mobile Preview
 
-![Mobile GIF Preview](../design/mobile-preview.gif)
+![Mobile GIF Preview](./design/Mobile.gif)
 
 ---
 
