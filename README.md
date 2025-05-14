@@ -1,35 +1,57 @@
 # GTA Landing Page 🎮
 
-A modern and responsive **Landing Page** inspired by the Grand Theft Auto (GTA) franchise. Built using only **HTML**, **CSS**, and **Vanilla JavaScript**, this project showcases a visually striking layout optimized for both **desktop** and **mobile** devices.
+A modern and responsive **Landing Page** inspired by the Grand Theft Auto (GTA) franchise. Built using **HTML**, **CSS**, and **Vanilla JavaScript**, this project delivers a dynamic user experience with a bold, urban design style — true to the GTA spirit.
+
+🔗 **Live Preview:**  
+👉 [Click here to visit the site](https://matheus-lmacedo.github.io/gta-landing-page/)
+
+---
 
 ## 🚀 Technologies Used
 
-- **HTML5** – Semantic structure and layout.
-- **CSS3** – Custom styling with responsiveness and animations.
-- **JavaScript (Vanilla)** – Interactivity and dynamic UI elements.
+- **HTML5** – For semantic and accessible structure.
+- **CSS3** – Used for responsive layouts, styling, and animations.
+- **JavaScript (Vanilla)** – Adds interactivity and simple dynamic behavior.
+
+---
 
 ## 📱 Responsive Design
 
-This landing page adapts seamlessly to different screen sizes. Below are previews of the layout on both desktop and mobile:
+This landing page is fully responsive and adapts to different screen sizes. Below are live previews of the layout in both **desktop** and **mobile** views.
 
 ### 💻 Desktop Preview
 
-![Desktop GIF Preview](../src/design/Desktop.gif)
+![Desktop GIF Preview](./design/desktop-preview.gif)
 
 ### 📱 Mobile Preview
 
-![Mobile GIF Preview](../src/design/Mobile.gif)
+![Mobile GIF Preview](./design/mobile-preview.gif)
 
-> Make sure to place your GIF files inside the `/assets` folder or adjust the path accordingly.
+> 📂 The GIFs are located in the `design/` folder at the root of the project.
+
+---
 
 ## 🌟 Features
 
-- Stylish GTA-inspired theme
-- Fully responsive design
-- Smooth scrolling navigation
-- Animated elements for user engagement
-- Clean and organized code structure
+- GTA-style hero section and visual design
+- Fully responsive layout (mobile-first)
+- Smooth scroll navigation
+- Hover and scroll-triggered animations
+- Clean, readable, and maintainable code
+
+---
 
 ## 🛠️ Getting Started
 
-To view the project locally:
+To run the project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/matheus-lmacedo/gta-landing-page.git
+2. Navigate to the project folder:
+   ```bash
+   cd gta-landing-page
+Happy coding! 🚀👨‍💻
+
+## 📄 License
+This project is licensed under the MIT License.
