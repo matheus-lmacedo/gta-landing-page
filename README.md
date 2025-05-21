@@ -3,7 +3,7 @@
 A modern and responsive **Landing Page** inspired by the Grand Theft Auto (GTA) franchise. Built using **HTML**, **CSS**, and **Vanilla JavaScript**, this project delivers a dynamic user experience with a bold, urban design style — true to the GTA spirit.
 
 🔗 **Live Preview:**  
-👉 [Click here to visit the site]((https://matheus-lmacedo.github.io/gta_landing_page/))
+👉 [Click here to visit the site](https://matheus-lmacedo.github.io/gta_landing_page/)
 
 ---
 
